@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_cnnindo" android:title="CNN Indonesia" />
+    <item android:id="@+id/nav_liputan6" android:title="Liputan6" />
+    <item android:id="@+id/nav_detik" android:title="Detik" />
+    <item android:id="@+id/nav_kompas" android:title="Kompas" />
+    <item android:id="@+id/nav_metrotv" android:title="MetroTV News" />
+    <item android:id="@+id/nav_tvone" android:title="TVOneNews" />
+</menu>
